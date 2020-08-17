@@ -6,6 +6,7 @@ test
 obselete additions
 obselete additions again
 Test 2
+Test 4
 Demo of app exercises for Intro to Android App Development
 
 <img src="http://i.imgur.com/DzkMzcy.png" width="250" />&nbsp;
