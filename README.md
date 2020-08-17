@@ -4,6 +4,7 @@ intro_android_demo
 
 test
 obselete additions
+obselete additions again
 Demo of app exercises for Intro to Android App Development
 
 <img src="http://i.imgur.com/DzkMzcy.png" width="250" />&nbsp;
