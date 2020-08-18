@@ -7,6 +7,7 @@ obselete additions
 obselete additions again
 Test 2
 Server Test 1
+Server Test 3
 Demo of app exercises for Intro to Android App Development
 
 <img src="http://i.imgur.com/DzkMzcy.png" width="250" />&nbsp;
